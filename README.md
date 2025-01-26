@@ -1,6 +1,7 @@
 git init
 git checkout -b feature
 git pull
+git status
 git add .
 git add README.md
 git commit -m "first commit"
